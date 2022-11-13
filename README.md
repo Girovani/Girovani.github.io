@@ -1,6 +1,6 @@
 # Portifólio de Geovani 
 
-##Professional
+## Professional
 
   My name is Geovani, i'm a Jr. Data Scientist and a Control and Automation Engineering student.
   I'm from Natal, Rio Grande do Norte in Brazil.
@@ -14,7 +14,7 @@
   - GCP
   - Azure
     
- ##Who am I?
+ ## Who am I?
  
  [![Dado de 20 faces girando]("https://media.tenor.com/k_Z0gMvnPpwAAAAM/gato-cat.gif")]
  
