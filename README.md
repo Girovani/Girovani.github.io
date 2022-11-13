@@ -16,4 +16,5 @@
     
  ## Who am I?
  
- [![Dado de 20 faces girando]("http://www.reddit.com/r/DownvoteGifs/comments/34tuk7/downvote_dice_roll_xpost_dnd/")]
+ [![Dado de 20 faces girando]("https://giphy.com/embed/12GTpOhQKfKlPi")]
+ 
