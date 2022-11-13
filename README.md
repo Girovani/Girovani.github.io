@@ -16,5 +16,4 @@
     
  ## Who am I?
  
- !["Gatinho fofo"]("https://media.tenor.com/k_Z0gMvnPpwAAAAM/gato-cat.gif")
- 
+ !["Gatinho fofo"]("http://i.imgur.com/gb0F132.gif)
