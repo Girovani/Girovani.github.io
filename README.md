@@ -6,10 +6,10 @@
   I'm interested in Machine Learning, Computer Vision, Deep Learning and most of the IoT and 4.0 Industry.
   
   Tecnologies that i'm studying
-    1. Python
-    2. SQL
-    3. PBI
-    4. GCP
-    5. Azure
+    * Python
+    * SQL
+    * PBI
+    * GCP
+    * Azure
     
   
